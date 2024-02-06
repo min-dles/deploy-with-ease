@@ -102,7 +102,7 @@ npm i
 npm run build
 ```
 
-Once this process in complete, you can either look at the React code more and spin it up locally, or move on to Terraform.
+Once this process in complete, you can either look at the React code more and spin it up locally, or move on to [Terraform](https://registry.terraform.io/).
 
 ## Terraform
 
